@@ -1,0 +1,55 @@
+/** Add any CSS you need to this file. */
+.header {
+  color: white;
+  background-color: black;
+  border: solid;
+}
+h1.h2 {
+  font-family: 'Comic Neue', cursive;
+}
+footer {
+  color: white;
+  background-color: black;
+  border: solid;
+  clear: both;
+}
+aside {
+  color: #cdcdcd;
+  background-color: black;
+  border: solid;
+  font-size: large;
+  float: left;
+  width: 190px;
+}
+main {
+  width: 970px;
+  float: right;
+}
+#page {
+  max-width: 1200px;
+  margin: auto;
+}
+#contact {
+  color: skyblue;
+}
+body {
+  background-color: blanchedalmond;
+}
+#logo {
+  float: right;
+}
+p {
+  font-family: 'Roboto Slab', serif;
+}
+figure {
+  width: 300px;
+  height: 560px;
+  border: solid;
+  text-align: center;
+  background-color: silver;
+  margin: 6px 6px 6px 6px;
+  float: left;
+}
+#sub {
+  margin-left: 300px;
+}

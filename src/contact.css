@@ -1,0 +1,99 @@
+.header {
+  color: white;
+  background-color: black;
+  border: solid;
+}
+h1 h2 {
+  font-family: 'Comic Neue', cursive;
+}
+footer {
+  color: white;
+  background-color: black;
+  border: solid;
+  clear: both;
+}
+aside {
+  color: #cdcdcd;
+  background-color: black;
+  border: solid;
+  font-size: large;
+  float: left;
+  width: 190px;
+}
+main {
+  width: 1000px;
+  float: right;
+}
+#page {
+  max-width: 1200px;
+  margin: auto;
+}
+#contact {
+  color: skyblue;
+}
+body {
+  background-color: blanchedalmond;
+}
+#logo {
+  float: right;
+}
+p {
+  font-family: 'Roboto Slab', serif;
+}
+#info {
+  width: 600px;
+  margin: auto;
+}
+
+#messages {
+  margin: 6px 55px 6px 0px;
+  width: 400px;
+  padding: 1em;
+  border: 1px solid #ccc;
+  border-radius: 1em;
+  background-color: slategray;
+}
+
+form div + div {
+  margin-top: 1em;
+}
+
+label {
+  display: inline-block;
+  width: 90px;
+  text-align: right;
+}
+
+input,
+textarea {
+  font: 1em sans-serif;
+  width: 300px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  border: 1px solid #999;
+}
+
+input:focus,
+textarea:focus {
+  border-color: #000;
+}
+
+input:focus,
+textarea:focus {
+  border-color: #000;
+}
+
+textarea {
+  vertical-align: top;
+
+  height: 5em;
+
+  resize: vertical;
+}
+button {
+  margin-left: 0.5em;
+}
+.box {
+  width: 20px;
+}
